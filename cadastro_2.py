@@ -120,3 +120,7 @@ Escolha uma opção:
         print('Não tem a opção {} no MENU. Tente novamente.'.format(i))
 
 print('O \033[0:31mprogramador Isaias\033[m agradece a sua participação!\nVolte sempre.')
+sleep(1)
+print('Bye, bye...')
+sleep(1)
+print('Bye...')
